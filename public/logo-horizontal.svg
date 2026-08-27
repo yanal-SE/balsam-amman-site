@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80">
+  <defs>
+    <style>
+      .t{font-family: 'Cairo', sans-serif; font-size:20px; fill:#0B66A3;}
+      .s{font-family:'Inter',sans-serif;font-size:12px; fill:#2A9DF4;}
+      .icon{fill:#2A9DF4;}
+    </style>
+  </defs>
+  <g transform="translate(8,8)">
+    <path class="icon" d="M18 2 C18 2 26 12 26 20 C26 30 18 38 10 38 C2 38 -6 30 -6 20 C-6 12 2 2 2 2 C6 -2 14 -2 18 2Z" transform="scale(.9) translate(10,2)"/>
+    <rect x="24" y="12" width="6" height="16" rx="1" fill="#FFFFFF"/>
+    <rect x="18" y="18" width="16" height="6" rx="1" fill="#FFFFFF"/>
+  </g>
+  <text x="90" y="32" class="t">بلسم عمان</text>
+  <text x="90" y="52" class="s">Balsam Amman Medical Clinic</text>
+</svg>
