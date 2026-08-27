@@ -12,8 +12,9 @@ export default function Hero() {
           <div className="mt-4 text-sm text-gray-500">هاتف: +962 7 9290 9635 — أرضي: 065 733 606</div>
         </div>
 
-        <div className="rounded-md overflow-hidden">
-          <img src="https://images.unsplash.com/photo-1580281657521-1a3b8f2f58f8?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder" alt="واجهة مركز بلسم عمان" className="w-full h-64 object-cover" />
+        <div className="rounded-md overflow-hidden shadow-md">
+          {/* Use a high-quality stock image from Unsplash as placeholder for the clinic front */}
+          <img src="https://images.unsplash.com/photo-1600566753523-8a3f4b6d8a1a?auto=format&fit=crop&w=1200&q=80" alt="واجهة مركز بلسم عمان" className="w-full h-64 object-cover" />
         </div>
       </div>
     </section>
